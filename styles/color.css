@@ -11,3 +11,10 @@ p{
     background-color: rgba(105, 105, 105, 0.499);
    
 }
+
+img{
+    width: 500px;
+    padding: 10px;
+    background-color: rgba(100, 148, 237, 0.485) ;
+    box-shadow: 30px;
+}
